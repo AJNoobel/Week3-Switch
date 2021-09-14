@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchGradingProgram", "SwitchGradingProgram\SwitchGradingProgram.csproj", "{AF7B31F8-87DA-446D-9EF0-A9F24C495F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsAndConsonants", "VowelsAndConsonants\VowelsAndConsonants.csproj", "{6B017806-8B7D-4887-A034-0768F6936AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF7B31F8-87DA-446D-9EF0-A9F24C495F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7B31F8-87DA-446D-9EF0-A9F24C495F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7B31F8-87DA-446D-9EF0-A9F24C495F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7B31F8-87DA-446D-9EF0-A9F24C495F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B017806-8B7D-4887-A034-0768F6936AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B017806-8B7D-4887-A034-0768F6936AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B017806-8B7D-4887-A034-0768F6936AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B017806-8B7D-4887-A034-0768F6936AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C163A4B-810C-44A3-9254-B7795800D1AE}
+	EndGlobalSection
+EndGlobal
